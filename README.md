@@ -2,7 +2,7 @@
 
 ### Technologies & Tools
 ![](https://img.shields.io/badge/style-bootstrap-blue?style=plastic&logo=bootstrap)
-![](https://img.shields.io/badge/js-javascript-blue?style=plastic&logo=jquery)
+![](https://img.shields.io/badge/js-javascript-blue?style=plastic&logo=javascript)
 ![](https://img.shields.io/badge/os-windows-blue?style=plastic&logo=windows)
 ![](https://img.shields.io/badge/database-mysql-blue?style=plastic&logo=mysql)
 ![](https://img.shields.io/badge/code-php-blue?style=plastic&logo=php)
