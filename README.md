@@ -1,13 +1,13 @@
 ### Hi there 👋 I'm From Madura Island
 
 ### Technologies & Tools
-![](https://img.shields.io/badge/style-bootstrap-blue?style=plastic&logo=bootstrap)
-![](https://img.shields.io/badge/js-javascript-blue?style=plastic&logo=javascript)
-![](https://img.shields.io/badge/os-windows-blue?style=plastic&logo=windows)
-![](https://img.shields.io/badge/database-mysql-blue?style=plastic&logo=mysql)
-![](https://img.shields.io/badge/code-php-blue?style=plastic&logo=php)
-![](https://img.shields.io/badge/framework-codeigniter-red?style=plastic&logo=codeigniter)
-![](https://img.shields.io/badge/framework-electron-blue?style=plastic&logo=electron)
+![](https://img.shields.io/badge/bootstrap-blue?style=for-the-badge&logo=bootstrap)
+![](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/windows-blue?style=for-the-badge&logo=windows)
+![](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php)
+![](https://img.shields.io/badge/codeigniter-blue?style=for-the-badge&logo=codeigniter)
+![](https://img.shields.io/badge/electron-blue?style=for-the-badge&logo=electron&logoColor=green)
 
 ### My Stats
 
