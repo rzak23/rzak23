@@ -5,6 +5,7 @@
 ![](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/windows-blue?style=for-the-badge&logo=windows)
 ![](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php)
 ![](https://img.shields.io/badge/codeigniter-blue?style=for-the-badge&logo=codeigniter)
 ![](https://img.shields.io/badge/electron-blue?style=for-the-badge&logo=electron&logoColor=green)
