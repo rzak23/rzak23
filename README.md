@@ -10,6 +10,8 @@
 ![](https://img.shields.io/badge/codeigniter-blue?style=for-the-badge&logo=codeigniter)
 ![](https://img.shields.io/badge/electron-blue?style=for-the-badge&logo=electron&logoColor=green)
 
+![](https://komarev.com/ghpvc/?username=rzak23)
+
 ### My Stats
 
 <!-- ![rzak23 stats](https://github-readme-stats.vercel.app/api?username=rzak23&show_icons=true&theme=radical&count_private=true) -->
